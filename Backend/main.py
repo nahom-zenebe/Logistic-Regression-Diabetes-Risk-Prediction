@@ -40,6 +40,7 @@ app = FastAPI(title="Diabetes Risk Prediction API")
 origins = [
     "http://localhost:3000", 
     "http://127.0.0.1:3000", 
+    "https://diabetes-risk-prediction-eight.vercel.app/"
    
 ]
 
