@@ -1,4 +1,4 @@
-# Diabetes Risk Prediction — Full Project
+# Diabetes Risk Prediction — on Logistic regression
 
 A complete diabetes risk prediction app with:
 
